@@ -100,7 +100,7 @@
     "chai": "^3.5.0",
     "connect-history-api-fallback": "^1.1.0",
     "eventsource-polyfill": "^0.9.6",
-    "express": "^4.13.3",
+    "express": "^4.17.3",
     "http-proxy-middleware": "^0.17.2",
     "inject-loader": "^2.0.1",
     "jsdoc": "^3.5.5",
